@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Module IA NIRD & Services Publics (Défi Mauritanie)
 
-## Getting Started
+Assistant intelligent bilingue (Français/Arabe), Low-cost et Offline-first, développé pour la Nuit de l'Info 2025.
 
-First, run the development server:
+## 📋 Description
+Ce module permet aux utilisateurs d'accéder à des informations administratives (Passeport, Carte grise, Santé...) et techniques (NIRD, Linux) via une interface de chat.
+Il utilise une **IA embarquée dans le navigateur** (ONNX Runtime) et fonctionne sans connexion internet après le premier chargement.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Fonctionnalités Clés
+- **Bilingue :** Compréhension et réponses en Français 🇫🇷 et Arabe 🇲🇷.
+- **Offline-First :** Fonctionne sans serveur backend (Edge AI).
+- **Recherche Hybride :** Combinaison de recherche vectorielle (Sémantique) et par mots-clés pour une précision maximale.
+- **Low-Cost :** Modèle quantifié optimisé pour les faibles connexions.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Pré-requis
+- **Node.js** (version 18 ou supérieure) installé sur la machine.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📦 Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Décompressez le dossier du projet.
+2. Ouvrez un terminal dans le dossier racine.
+3. Installez les dépendances :
+   ```bash
+   npm install
 
-## Learn More
+Ouvrez votre navigateur sur : http://localhost:3000
 
-To learn more about Next.js, take a look at the following resources:
+Note importante pour le mode Offline : Lors du premier lancement, attendez que le badge en haut devienne vert ("SYSTÈME ONLINE"). Cela signifie que le modèle IA a été téléchargé. Ensuite, vous pouvez couper votre connexion Internet pour tester la robustesse du système.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📂 Structure du Projet
+app/page.tsx : Interface utilisateur (Chatbot Académique).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+public/ai.worker.js : Le "Cerveau" de l'IA (Web Worker + Transformers.js).
 
-## Deploy on Vercel
+src/data/knowledge.json : Base de connaissances (Questions/Réponses).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+src/hooks/useAIAssistant.js : Hook React pour la gestion du Worker.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔧 Personnalisation
+Pour ajouter de nouvelles questions/réponses, modifiez simplement le fichier src/data/knowledge.json. L'IA prendra en compte les changements instantanément (après rechargement de la page).
+
+Équipe : [LE SHIFT DE NUIT] Nuit de l'Info 2025
+
+

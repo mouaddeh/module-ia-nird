@@ -1,0 +1,331 @@
+[
+  {
+    "id": "nird_1",
+    "text": "windows 10 fin support obsolète danger sécurité mise à jour virus piratage risque ويندوز انتهاء دعم خطر أمان فيروس قرصنة",
+    "reponse_fr": "La fin du support de Windows 10 pose un risque de sécurité majeur. La démarche NIRD préconise de ne pas jeter ce matériel, mais de le migrer vers un système d'exploitation libre (Linux) pour garantir sa pérennité.",
+    "reponse_ar": "يشكل انتهاء دعم Windows 10 خطراً أمنياً كبيراً. توصي مبادرة NIRD بعدم التخلص من هذه الأجهزة، بل ترحيلها إلى نظام تشغيل حر (Linux) لضمان استمراريتها.",
+    "category": "NIRD - Sécurité"
+  },
+  {
+    "id": "nird_2",
+    "text": "installer linux difficile migration ecole professeur formation apprendre compliqué تثبيت لينكس صعب هجرة مدرسة معلم تدريب تعلم",
+    "reponse_fr": "Installer Linux est aujourd'hui très simple. Des distributions comme Linux Mint ou PrimTux sont adaptées aux écoles. La 'Forge des Communs' propose des guides pour accompagner les professeurs pas à pas.",
+    "reponse_ar": "تثبيت Linux أصبح بسيطاً جداً اليوم. توزيعات مثل Linux Mint أو PrimTux مناسبة للمدارس. تقدم 'Forge des Communs' أدلة لمرافقة المعلمين خطوة بخطوة.",
+    "category": "NIRD - Solution"
+  },
+  {
+    "id": "nird_3",
+    "text": "c'est quoi nird définition signification acronym veut dire sens projet تعريف معنى مشروع مبادرة",
+    "reponse_fr": "NIRD signifie 'Numérique Inclusif, Responsable et Durable'. C'est une démarche née au lycée Carnot pour aider les écoles à s'affranchir des GAFAM et lutter contre l'obsolescence programmée.",
+    "reponse_ar": "NIRD تعني 'رقمية شاملة، مسؤولة ومستدامة'. إنها مبادرة ولدت في ثانوية كارنو لمساعدة المدارس على التحرر من GAFAM ومحاربة التقادم المبرمج.",
+    "category": "NIRD - Concept"
+  },
+  {
+    "id": "nird_4",
+    "text": "recyclage ordinateur vieux pc matériel déchet poubelle jeter reconditionnement إعادة تدوير كمبيوتر قديم نفايات رمي تجديد",
+    "reponse_fr": "Ne jetez rien ! Un vieux PC lent sous Windows peut devenir très rapide sous Linux. S'il est vraiment inutilisable, donnez-le à une association de reconditionnement partenaire du réseau NIRD.",
+    "reponse_ar": "لا ترمي شيئاً! كمبيوتر قديم بطيء في Windows يمكن أن يصبح سريعاً جداً في Linux. إذا كان غير قابل للاستخدام حقاً، تبرع به لجمعية إعادة تأهيل شريكة لشبكة NIRD.",
+    "category": "NIRD - Écologie"
+  },
+  {
+    "id": "nird_5",
+    "text": "logiciel libre gratuit avantage économie licence cout argent budget برمجيات حرة مجاني ميزة اقتصاد رخصة تكلفة مال ميزانية",
+    "reponse_fr": "Les logiciels libres ne coûtent pas de licences chères. Ils permettent aux écoles de faire des économies énormes tout en gardant la souveraineté de leurs données (RGPD).",
+    "reponse_ar": "البرمجيات الحرة لا تكلف تراخيص باهظة. تسمح للمدارس بتوفير مبالغ طائلة مع الحفاظ على سيادة بياناتها.",
+    "category": "NIRD - Économie"
+  },
+  {
+    "id": "mau_1",
+    "text": "acte naissance papier état civil extrait copie mairie déclaration nouveau né bébé عقد ازدياد ميلاد حالة مدنية بلدية مولود",
+    "reponse_fr": "Pour un extrait de naissance : rendez-vous au centre d'état civil (Mairie/CAC) avec le NNI des parents. En zone rurale, adressez-vous au chef de village ou au bureau local.",
+    "reponse_ar": "للحصول على مستخرج ميلاد: توجه إلى مركز الحالة المدنية (البلدية) مع الرقم الوطني للتعريف (NNI) للوالدين. في المناطق الريفية، اتصل برئيس القرية أو المكتب المحلي.",
+    "category": "Admin - État Civil"
+  },
+  {
+    "id": "mau_2",
+    "text": "carte identité nationale cni perdu renouveler perte vol expiré بطاقة تعريف وطنية ضياع تجديد سرقة منتهية",
+    "reponse_fr": "Le renouvellement de la Carte Nationale d'Identité se fait auprès de l'Agence Nationale du Registre de la Population et des Titres Sécurisés (ANRPTS). Apportez votre ancien acte ou récépissé.",
+    "reponse_ar": "يتم تجديد بطاقة التعريف الوطنية لدى الوكالة الوطنية لسجل السكان والوثائق المؤمنة (ANRPTS). أحضر عقدك القديم أو إيصال التسجيل.",
+    "category": "Admin - Papiers"
+  },
+  {
+    "id": "mau_3",
+    "text": "bachelier inscription université orientation sup bourse tawjih etude supérieur nouveau بكالوريا تسجيل جامعة توجيه منحة دراسة عليا",
+    "reponse_fr": "Les nouveaux bacheliers doivent s'inscrire via la plateforme 'Tawjih'. Pour la bourse, le dossier se dépose au Ministère de l'Enseignement Supérieur (Direction des Bourses).",
+    "reponse_ar": "يجب على الناجحين الجدد في البكالوريا التسجيل عبر منصة 'توجيه'. بالنسبة للمنحة، يتم إيداع الملف في وزارة التعليم العالي (مديرية المنح).",
+    "category": "Admin - Éducation"
+  },
+  {
+    "id": "mau_4",
+    "text": "urgence malade hôpital numéro ambulance pharmacie nuit garde soin docteur طوارئ مريض مستشفى إسعاف صيدلية مناوبة طبيب",
+    "reponse_fr": "En cas d'urgence médicale, composez le 101 (SAMU) ou le 118 (Pompiers). Pour les médicaments la nuit, consultez la liste des pharmacies de garde affichée à la mairie.",
+    "reponse_ar": "في حالة الطوارئ الطبية، اتصل بالرقم 101 (SAMU) أو 118 (الإطفاء). بالنسبة للأدوية ليلاً، راجع قائمة الصيدليات المناوبة المعروضة في البلدية.",
+    "category": "Admin - Santé"
+  },
+  {
+    "id": "tech_1",
+    "text": "connexion internet faible problème réseau offline hors ligne wifi coupé marcher اتصال انترنت ضعيف مشكلة شبكة بدون نت واي فاي",
+    "reponse_fr": "Cet assistant est conçu pour fonctionner même avec une connexion faible ou instable. Il utilise un 'mini-cerveau' (modèle ONNX) stocké directement dans votre navigateur.",
+    "reponse_ar": "تم تصميم هذا المساعد ليعمل حتى مع اتصال ضعيف أو غير مستقر. يستخدم 'دماغ صغير' (نموذج ONNX) مخزن مباشرة في متصفحك.",
+    "category": "Tech - Fonctionnement"
+  },
+  {
+    "id": "tech_privacy",
+    "text": "données personnelles privé sécurité espion confidentiel vie privée بيانات شخصية خصوصية أمان تجسس سري",
+    "reponse_fr": "Comme je fonctionne en local sur votre appareil, aucune de vos questions ne sort de votre téléphone. Votre vie privée est garantie à 100%.",
+    "reponse_ar": "بما أنني أعمل محلياً على جهازك، لا يخرج أي من أسئلتك من هاتفك. خصوصيتك مضمونة 100%.",
+    "category": "Tech - Confidentialité"
+  },
+  {
+    "id": "fun_asterix",
+    "text": "astérix village gaulois rapport blague humour أستريكس قرية غالية نكتة",
+    "reponse_fr": "Comme le village d'Astérix résistait à l'Empire Romain, l'école NIRD résiste à l'Empire Numérique des GAFAM. C'est une question de liberté !",
+    "reponse_ar": "كما كانت قرية أستريكس تقاوم الإمبراطورية الرومانية، تقاوم مدرسة NIRD الإمبراطورية الرقمية لـ GAFAM. إنها مسألة حرية!",
+    "category": "NIRD - Esprit"
+  },
+  {
+    "id": "fst_loc",
+    "text": "fst université location où se trouve adresse transport bus nouakchott campus aller جامعة كلية علوم تقنيات موقع عنوان نقل باص",
+    "reponse_fr": "La FST (Faculté des Sciences et Techniques) est située sur le nouveau Campus Universitaire (Al Aasriya) sur la route de Nouadhibou. Des bus universitaires desservent le campus depuis le Carrefour Madrid.",
+    "reponse_ar": "تقع كلية العلوم والتقنيات (FST) في الحرم الجامعي الجديد (العصرية) على طريق نواذيبو. تخدم حافلات جامعية الحرم الجامعي انطلاقا من ملتقى مدريد.",
+    "category": "FST - Orientation"
+  },
+  {
+    "id": "fst_miashs",
+    "text": "miashs filière informatique gestion maths debouchés master licence تخصص معلوماتية تسيير رياضيات آفاق ماستر ليسانس",
+    "reponse_fr": "Le parcours MIASHS de la FST forme à la double compétence : Informatique et Gestion. C'est idéal pour devenir Data Analyst ou Chef de projet numérique.",
+    "reponse_ar": "مسار MIASHS في FST يكون في الكفاءة المزدوجة: المعلوماتية والتسيير. إنه مثالي لتصبح محلل بيانات أو مدير مشروع رقمي.",
+    "category": "FST - Filières"
+  },
+  {
+    "id": "fst_inscription",
+    "text": "inscription fst faculté sciences dossier scolarité document papier université nouakchott physique chimie تسجيل ملف وثائق جامعة نواكشوط فيزياء كيمياء",
+    "reponse_fr": "Pour l'inscription à la FST : Allez au service de scolarité avec l'original du BAC, 4 photos, copie CNI et le formulaire. Les inscriptions se font généralement en début d'année universitaire.",
+    "reponse_ar": "للتسجيل في FST: اذهب إلى مصلحة الشؤون الطلابية مع شهادة البكالوريا الأصلية، 4 صور، نسخة من بطاقة التعريف والاستمارة. يتم التسجيل عادة في بداية العام الجامعي.",
+    "category": "FST - Admin"
+  },
+  {
+    "id": "fst_exam",
+    "text": "examen session rattrapage note validation semestre partiel moyenne امتحان دورة استدراك نقطة نجاح فصل معدل",
+    "reponse_fr": "Le système d'évaluation comprend le Contrôle Continu (CC) et l'Examen Final. Il faut une moyenne de 10/20 pour valider. Une session de rattrapage est prévue pour ceux qui n'ont pas validé.",
+    "reponse_ar": "نظام التقييم يشمل المراقبة المستمرة (CC) والامتحان النهائي. يجب الحصول على معدل 10/20 للنجاح. توجد دورة استدراكية للذين لم ينجحوا.",
+    "category": "FST - Examens"
+  },
+  {
+    "id": "admin_casier",
+    "text": "casier judiciaire bulletin numéro 3 justice tribunal papier سجل عدلي صحيفة سوابق محكمة عدالة",
+    "reponse_fr": "Pour obtenir un extrait de casier judiciaire (bulletin n°3), adressez-vous au tribunal de votre Wilaya de naissance ou faites la demande en ligne sur le portail du Ministère de la Justice.",
+    "reponse_ar": "للحصول على مستخرج من السجل العدلي (الصحيفة رقم 3)، توجه إلى محكمة ولاية ميلادك أو قدم الطلب عبر الإنترنت على بوابة وزارة العدل.",
+    "category": "Justice - Papiers"
+  },
+  {
+    "id": "admin_mariage",
+    "text": "acte mariage certificat situation familiale civil epoux femme عقد زواج شهادة حالة عائلية زوج زوجة",
+    "reponse_fr": "L'acte de mariage ou le certificat de situation familiale s'obtient à la mairie du lieu de l'événement. Il est souvent demandé pour les bourses ou les allocations.",
+    "reponse_ar": "يتم الحصول على عقد الزواج أو شهادة الحالة العائلية من بلدية مكان الحدث. غالباً ما يُطلب للمنح الدراسية أو المخصصات.",
+    "category": "Admin - État Civil"
+  },
+  {
+    "id": "admin_foncier",
+    "text": "titre foncier terrain propriété domaine cadastre maison sol سند عقاري أرض ملكية عقارات منزل",
+    "reponse_fr": "Pour sécuriser un terrain, la demande de titre foncier se fait à la Direction des Domaines. Il faut fournir l'acte de vente notarié et une copie de votre CNI.",
+    "reponse_ar": "لتأمين قطعة أرض، يتم طلب السند العقاري في مديرية العقارات. يجب تقديم عقد البيع الموثق ونسخة من بطاقة التعريف الوطنية.",
+    "category": "Admin - Habitat"
+  },
+  {
+    "id": "admin_cartegrise",
+    "text": "carte grise voiture immatriculation véhicule transport auto بطاقة رمادية سيارة تسجيل مركبة نقل",
+    "reponse_fr": "L'immatriculation d'un véhicule (Carte Grise) s'effectue à la Direction des Transports Terrestres. Apportez le certificat de dédouanement, l'assurance et l'acte de vente.",
+    "reponse_ar": "يتم تسجيل المركبة (البطاقة الرمادية) في مديرية النقل البري. أحضر شهادة الجمركة، التأمين وعقد البيع.",
+    "category": "Admin - Transport"
+  },
+  {
+    "id": "biz_creation",
+    "text": "créer entreprise commerce registre société guichet unique business nif إنشاء شركة تجارة سجل تجاري شباك موحد رقم ضريبي",
+    "reponse_fr": "Pour lancer votre commerce formel, rendez-vous au Guichet Unique (Chambre de Commerce). Vous obtiendrez votre Registre de Commerce et votre Numéro d'Identification Fiscale (NIF) en 48h.",
+    "reponse_ar": "لبدء نشاطك التجاري الرسمي، توجه إلى الشباك الموحد (غرفة التجارة). ستحصل على السجل التجاري ورقم التعريف الضريبي (NIF) خلال 48 ساعة.",
+    "category": "Économie - Création"
+  },
+  {
+    "id": "juridique_aide",
+    "text": "aide juridique avocat gratuit droit problème loi défenseur مساعدة قضائية محامي مجاني قانون مشكلة",
+    "reponse_fr": "En cas de conflit sans moyens financiers, vous pouvez solliciter l'aide juridictionnelle au tribunal, ou contacter des associations de droits de l'homme pour une consultation gratuite.",
+    "reponse_ar": "في حالة حدوث نزاع دون إمكانيات مالية، يمكنك طلب المساعدة القضائية في المحكمة، أو الاتصال بجمعيات حقوق الإنسان للحصول على استشارة مجانية.",
+    "category": "Droit - Aide"
+  },
+  {
+    "id": "demarche_vote",
+    "text": "carte électeur vote élection bureau recensement ravel voter politique بطاقة ناخب تصويت انتخابات مكتب إحصاء سياسة",
+    "reponse_fr": "Pour voter, l'inscription sur la liste électorale est obligatoire. Lors du recensement administratif à vocation électorale (RAVEL), présentez-vous au bureau de votre commune avec votre CNI.",
+    "reponse_ar": "للتصويت، التسجيل في اللائحة الانتخابية إلزامي. أثناء الإحصاء الإداري ذي الطابع الانتخابي (RAVEL)، توجه إلى مكتب بلديتك مع بطاقة تعريفك.",
+    "category": "Citoyenneté - Vote"
+  },
+  {
+    "id": "demarche_emploi",
+    "text": "inscription chômage techghil emploi travail agence embauche chercheur stage تسجيل بطالة تشغيل عمل وكالة توظيف باحث تدريب",
+    "reponse_fr": "Les chercheurs d'emploi doivent s'inscrire auprès de l'Agence Techghil. Le dossier comprend : CV, copies des diplômes légalisées, CNI et certificat de chômage.",
+    "reponse_ar": "يجب على الباحثين عن عمل التسجيل لدى وكالة تشغيل. يتكون الملف من: سيرة ذاتية، نسخ مصدقة من الشهادات، بطاقة تعريف وشهادة بطالة.",
+    "category": "Emploi - Techghil"
+  },
+  {
+    "id": "demarche_impot",
+    "text": "impôt taxe nif fiscalité payer direction finance ضريبة رسوم جبائية دفع مالية",
+    "reponse_fr": "Pour payer vos impôts ou obtenir un quitus fiscal, adressez-vous à la Direction Générale des Impôts (DGI). Le Numéro d'Identification Fiscale (NIF) est requis pour toute démarche commerciale.",
+    "reponse_ar": "لدفع ضرائبك أو الحصول على براءة ذمة ضريبية، توجه إلى المديرية العامة للضرائب (DGI). رقم التعريف الضريبي (NIF) مطلوب لأي إجراء تجاري.",
+    "category": "Admin - Fiscalité"
+  },
+  {
+    "id": "demarche_retraite",
+    "text": "retraite pension cnss sécurité sociale vieux fin carrière travail تقاعد معاش ضمان اجتماعي شيخوخة نهاية خدمة",
+    "reponse_fr": "La demande de pension de retraite se dépose à la Caisse Nationale de Sécurité Sociale (CNSS). Il faut fournir le livret d'assurance, l'arrêté de cessation de service et les pièces d'état civil.",
+    "reponse_ar": "يتم إيداع طلب معاش التقاعد لدى الصندوق الوطني للضمان الاجتماعي (CNSS). يجب تقديم دفتر التأمين، قرار التوقف عن العمل ووثائق الحالة المدنية.",
+    "category": "Admin - Social"
+  },
+  {
+    "id": "demarche_douane",
+    "text": "douane dédouanement voiture importer taxe frontière port جمارك جمركة سيارة استيراد حدود ميناء",
+    "reponse_fr": "Pour dédouaner un véhicule importé, vous devez passer par un transitaire agréé en douane. Munissez-vous de la carte grise originale, du connaissement (Bill of Lading) et de la facture d'achat.",
+    "reponse_ar": "لجمركة سيارة مستوردة، يجب عليك المرور عبر مخلص جمركي معتمد. أحضر البطاقة الرمادية الأصلية، بوليصة الشحن (Bill of Lading) وفاتورة الشراء.",
+    "category": "Admin - Douane"
+  },
+  {
+    "id": "demarche_permis_construire",
+    "text": "construire maison permis autorisation bâtiment travaux architecture بناء منزل رخصة إذن عمارة أشغال هندسة",
+    "reponse_fr": "Le permis de construire est délivré par la Mairie. Dossier technique : plans d'architecte, titre foncier du terrain, et demande manuscrite adressée au Maire.",
+    "reponse_ar": "رخصة البناء تصدرها البلدية. الملف الفني: مخططات المهندس المعماري، السند العقاري للأرض، وطلب خطي موجه للعمدة.",
+    "category": "Admin - Urbanisme"
+  },
+  {
+    "id": "orient_cac",
+    "text": "où aller papiers cac centre accueil citoyens anrpts lieu guichet état civil مكان مركز استقبال مواطنين أوراق",
+    "reponse_fr": "Pour l'État Civil (CNI, Passeport, Naissance), ne allez pas à la Mairie ! Allez au 'Centre d'Accueil des Citoyens' (CAC / Markaz) de votre Moughataa. Il y en a un dans chaque chef-lieu.",
+    "reponse_ar": "للحالة المدنية (بطاقة تعريف، جواز سفر، ميلاد)، لا تذهب إلى البلدية! اذهب إلى 'مركز استقبال المواطنين' (CAC / مركز) في مقاطعتك. يوجد واحد في كل عاصمة مقاطعة.",
+    "category": "Orientation - Lieux"
+  },
+  {
+    "id": "orient_hierarchie",
+    "text": "maire préfet hakem wali qui voir problème autorité chef حاكم والي عمدة مشكلة سلطة مسؤول",
+    "reponse_fr": "Pour un problème local (déchets, eau, école primaire) : voir la Mairie. Pour un problème de sécurité ou foncier : voir le Hakem (Préfet). Pour un recours régional : voir le Wali (Gouverneur).",
+    "reponse_ar": "لمشكلة محلية (نفايات، ماء، مدرسة ابتدائية): راجع البلدية. لمشكلة أمنية أو عقارية: راجع الحاكم. للطعن الجهوي: راجع الوالي.",
+    "category": "Orientation - Hiérarchie"
+  },
+  {
+    "id": "orient_ministere",
+    "text": "ministère complexe gouvernemental où se trouve direction administration nouakchott وزارة إدارة نواكشوط موقع",
+    "reponse_fr": "La plupart des Ministères sont situés à Nouakchott, dans le quartier des Ministères (près de la Présidence). Pour éviter le déplacement, vérifiez si une Direction Régionale existe dans votre Wilaya.",
+    "reponse_ar": "تقع معظم الوزارات في نواكشوط، في حي الوزارات (قرب الرئاسة). لتجنب التنقل، تحقق مما إذا كانت هناك مديرية جهوية في ولايتك.",
+    "category": "Orientation - Lieux"
+  },
+  {
+    "id": "orient_digital",
+    "text": "site web plateforme en ligne internet lien adresse url services.gov.mr موقع انترنت خدمات عمومية منصة رابط",
+    "reponse_fr": "De plus en plus de services sont accessibles en ligne. Consultez 'Mes Services Publics' (www.services.gov.mr) ou 'Adamti' avant de vous déplacer physiquement.",
+    "reponse_ar": "المزيد من الخدمات متاحة عبر الإنترنت. راجع 'خدماتي العمومية' (www.services.gov.mr) أو 'خدماتي' قبل التنقل شخصياً.",
+    "category": "Orientation - Web"
+  },
+  {
+    "id": "orient_nird",
+    "text": "où trouver nird contact aide linux install party club informatique نادي معلوماتية اتصال مساعدة",
+    "reponse_fr": "L'orientation vers le Libre se fait via les 'Clubs Informatiques' des lycées ou via la plateforme en ligne 'La Forge'. Demandez à votre professeur de technologie le point de contact le plus proche.",
+    "reponse_ar": "يتم التوجيه نحو البرمجيات الحرة عبر 'نوادي المعلوماتية' في الثانويات أو عبر منصة 'La Forge' عبر الإنترنت. اطلب من أستاذ التكنولوجيا أقرب نقطة اتصال.",
+    "category": "NIRD - Contact"
+  },
+  {
+    "id": "assoc_demarche",
+    "text": "créer association ong comment faire procédure étape société civile تأسيس جمعية إجراءات منظمة مجتمع مدني",
+    "reponse_fr": "Pour créer une association : 1. Tenez une Assemblée Générale Constitutive. 2. Rédigez les Statuts et le Règlement Intérieur. 3. Déposez le dossier complet au Ministère de l'Intérieur ou chez le Hakem (Préfet).",
+    "reponse_ar": "لإنشاء جمعية: 1. عقد جمعية عامة تأسيسية. 2. صياغة النظام الأساسي والنظام الداخلي. 3. إيداع الملف الكامل لدى وزارة الداخلية أو لدى الحاكم.",
+    "category": "Association - Création"
+  },
+  {
+    "id": "assoc_dossier",
+    "text": "dossier association pièces documents fournir papier pv statut ملف وثائق محضر قانون أساسي",
+    "reponse_fr": "Le dossier de création comprend : La demande timbrée, les procès-verbaux (PV) de l'AG, la liste des membres du bureau (avec CNI et casiers judiciaires) et les statuts en 4 exemplaires.",
+    "reponse_ar": "يتكون ملف التأسيس من: الطلب المختوم، محاضر الجمعية العامة، قائمة أعضاء المكتب (مع بطاقات التعريف والسجلات العدلية) والنظام الأساسي في 4 نسخ.",
+    "category": "Association - Dossier"
+  },
+  {
+    "id": "assoc_recepisse",
+    "text": "récépissé reconnaissance officiel légal agrément preuve وصل اعتراف ترخيص قانوني إثبات",
+    "reponse_fr": "Le 'Récépissé' est le document officiel qui prouve que votre association est légale. Il est indispensable pour ouvrir un compte bancaire ou recevoir des subventions.",
+    "reponse_ar": "'وصل الاعتراف' هو الوثيقة الرسمية التي تثبت أن جمعيتك قانونية. إنه ضروري لفتح حساب مصرفي أو تلقي الإعانات.",
+    "category": "Association - Légal"
+  },
+  {
+    "id": "assoc_etudiant",
+    "text": "club étudiant université activité campus créer sport culture نادي طلابي جامعة نشاط ثقافة رياضة",
+    "reponse_fr": "Pour créer un Club Étudiant à l'université (ex: Club Info, Club Environnement), la procédure est simplifiée. Adressez-vous au Service des Activités Culturelles et Sportives de votre faculté (FST, FSJE...).",
+    "reponse_ar": "لإنشاء نادٍ طلابي في الجامعة (مثال: نادي المعلوماتية، نادي البيئة)، الإجراء مبسط. توجه إلى مصلحة الأنشطة الثقافية والرياضية في كليتك.",
+    "category": "Vie Étudiante"
+  },
+  {
+    "id": "assoc_nird",
+    "text": "collectif nird rejoindre participer bénévole groupe تطوع مشاركة مجموعة",
+    "reponse_fr": "Vous n'êtes pas obligé de créer une asso pour aider ! Vous pouvez rejoindre un collectif NIRD existant ou un 'Groupe d'Utilisateurs Linux' (GUL) pour participer à des install-parties bénévolement.",
+    "reponse_ar": "لست مضطراً لإنشاء جمعية للمساعدة! يمكنك الانضمام إلى مجموعة NIRD موجودة أو 'مجموعة مستخدمي Linux' (GUL) للمشاركة في حفلات التثبيت تطوعياً.",
+    "category": "NIRD - Communauté"
+  },
+  {
+    "id": "assoc_banque",
+    "text": "compte bancaire association argent chèque banque trésorier حساب بنكي مصرفي شيك أمين صندوق",
+    "reponse_fr": "Pour ouvrir un compte bancaire associatif : Présentez le Récépissé original, les Statuts, le PV de nomination du bureau et les CNI des signataires (Président et Trésorier).",
+    "reponse_ar": "لفتح حساب مصرفي للجمعية: قدم وصل الاعتراف الأصلي، النظام الأساسي، محضر تعيين المكتب وبطاقات تعريف الموقعين (الرئيس وأمين الصندوق).",
+    "category": "Association - Gestion"
+  },
+  {
+    "id": "juridique_travail",
+    "text": "problème travail licenciement patron salaire inspecteur conflit emploi abusif نزاع شغل فصل تعسفي راتب مفتشية",
+    "reponse_fr": "En cas de conflit avec votre employeur (licenciement abusif, salaire impayé), saisissez l'Inspection du Travail de votre Wilaya. C'est un service gratuit de médiation obligatoire avant le tribunal.",
+    "reponse_ar": "في حالة حدوث نزاع مع صاحب العمل (فصل تعسفي، راتب غير مدفوع)، اتصل بمفتشية الشغل في ولايتك. إنها خدمة وساطة مجانية إلزامية قبل المحكمة.",
+    "category": "Droit du Travail"
+  },
+  {
+    "id": "juridique_plainte",
+    "text": "porter plainte police gendarmerie vol agression commissariat تقديم شكوى شرطة درك سرقة اعتداء",
+    "reponse_fr": "Pour porter plainte (vol, agression, escroquerie), rendez-vous au Commissariat de Police (en ville) ou à la Brigade de Gendarmerie (en zone rurale). Exigez une copie du Procès-Verbal (PV).",
+    "reponse_ar": "لتقديم شكوى (سرقة، اعتداء، احتيال)، توجه إلى مفوضية الشرطة (في المدينة) أو فرقة الدرك (في المناطق الريفية). اطلب نسخة من المحضر (PV).",
+    "category": "Justice - Plainte"
+  },
+  {
+    "id": "juridique_cadi",
+    "text": "héritage divorce famille cadi tribunal mariage séparation ميراث طلاق زواج قاضي أسرة أحوال شخصية",
+    "reponse_fr": "Les affaires de statut personnel (mariage, divorce, héritage) sont traitées par les Chambres du Statut Personnel au Tribunal. Vous pouvez consulter le Cadi ou un notaire pour des conseils préalables.",
+    "reponse_ar": "يتم التعامل مع قضايا الأحوال الشخصية (الزواج، الطلاق، الميراث) من قبل غرف الأحوال الشخصية في المحكمة. يمكنك استشارة القاضي أو الموثق للحصول على مشورة مسبقة.",
+    "category": "Droit - Famille"
+  },
+  {
+    "id": "juridique_commerce",
+    "text": "contrat litige facture impayé client fournisseur tribunal commerce محكمة تجارية عقد نزاع فاتورة",
+    "reponse_fr": "Pour un litige commercial (facture impayée, contrat non respecté), c'est le Tribunal de Commerce qui est compétent. Une tentative de conciliation est souvent recommandée.",
+    "reponse_ar": "بالنسبة للنزاعات التجارية (فاتورة غير مدفوعة، عقد غير محترم)، المحكمة التجارية هي المختصة. غالباً ما ينصح بمحاولة الصلح.",
+    "category": "Droit - Commerce"
+  },
+  {
+    "id": "nird_licence",
+    "text": "droit auteur licence libre copyright piratage légal illégal copie حقوق مؤلف قرصنة قانوني غير شرعي نسخ",
+    "reponse_fr": "Juridiquement, utiliser un logiciel piraté est un délit. La solution légale est d'utiliser des logiciels sous Licence Libre (GPL, MIT) qui vous donnent le droit légal de les copier et modifier.",
+    "reponse_ar": "قانونياً، استخدام البرامج المقرصنة جريمة. الحل القانوني هو استخدام البرمجيات ذات الرخصة الحرة (GPL, MIT) التي تمنحك الحق القانوني في نسخها وتعديلها.",
+    "category": "NIRD - Légal"
+  },
+  {
+    "id": "nird_rgpd",
+    "text": "données personnelles protection loi vie privée rgpd facebook google بيانات شخصية حماية احترام فيسبوك جوجل",
+    "reponse_fr": "Vous avez le droit de savoir quelles données les écoles ou les entreprises collectent sur vous. Exigez la transparence ! Les logiciels libres garantissent mieux ce respect de la vie privée.",
+    "reponse_ar": "لديك الحق في معرفة البيانات التي تجمعها المدارس أو الشركات عنك. طالب بالشفافية! البرمجيات الحرة تضمن بشكل أفضل احترام الخصوصية.",
+    "category": "NIRD - Droits"
+  },
+  {
+    "id": "transport_permis",
+    "text": "passer permis conduire voiture examen code route auto école transport رخصة قيادة سياقة امتحان كود",
+    "reponse_fr": "Pour obtenir le permis de conduire : Inscrivez-vous dans une auto-école agréée. Vous devez réussir l'examen théorique (Code) puis l'examen pratique à la Direction des Transports.",
+    "reponse_ar": "للحصول على رخصة القيادة: سجل في مدرسة تعليم قيادة معتمدة. يجب اجتياز الامتحان النظري (الرمز) ثم الامتحان التطبيقي في مديرية النقل.",
+    "category": "Transport - Permis"
+  },
+  {
+    "id": "admin_passeport",
+    "text": "passeport voyage visa document étranger biométrique timbre anrpts international frontière partir جواز سفر فيزا وثائق بيومتري طابع تسفير حدود",
+    "reponse_fr": "Le passeport biométrique s'obtient auprès de l'ANRPTS (Agence Nationale du Registre des Populations). Pièces requises : CNI valide, certificat de résidence, et quittance de paiement du timbre fiscal.",
+    "reponse_ar": "يتم الحصول على جواز السفر البيومتري من ANRPTS (الوكالة الوطنية لسجل السكان). الوثائق المطلوبة: بطاقة تعريف سارية، شهادة إقامة، وإيصال دفع الطابع الجبائي.",
+    "category": "Admin - Voyage"
+  }
+]
