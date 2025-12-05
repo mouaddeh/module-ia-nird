@@ -1,13 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Ignore les erreurs pour que Vercel valide le projet coûte que coûte
+  // 1. On ignore les erreurs TypeScript (types manquants etc.)
   typescript: {
     ignoreBuildErrors: true,
   },
+  // 2. On ignore les erreurs de style (ESLint)
   eslint: {
     ignoreDuringBuilds: true,
   },
+  // 3. On configure Webpack pour l'IA (Transformers.js)
   webpack: (config) => {
     config.resolve.alias = {
       ...config.resolve.alias,
